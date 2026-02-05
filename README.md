@@ -1,4 +1,14 @@
+"COMPANY":CODTECH IT SOLUTIONS
 
+"NAME":THIRUNAVUKARASU M
+
+"INTERN ID":CTIS5098
+
+"DOMAIN":DATA ANALYTICS
+
+"DURATION":4 WEEKS
+
+"MENTOR":NEELA SANTOSH
 🚗 Vehicle Selling Price Prediction using Machine Learning
 📌 Project Overview
 
