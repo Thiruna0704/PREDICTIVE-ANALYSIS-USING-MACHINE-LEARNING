@@ -125,3 +125,4 @@ Thanks to CODTECH for providing this internship opportunity and task guidelines 
 
 Thirunavukarasu Thiru
 AI & Data Science Student
+OUTPUT : <img width="915" height="582" alt="Image" src="https://github.com/user-attachments/assets/0b15be02-b026-40f1-aa26-5ad557668cae" />
